@@ -36,7 +36,7 @@ This is my first Machine Learning project. In this project, I have learned how t
 
 ## 📁 Project Files
 
-- `data.csv` — sample dataset  
+- `shoes_data.csv` — sample dataset  
 - `linear_regression_model.ipynb` — Jupyter Notebook with full code  
 - `README.md` — This file
 
